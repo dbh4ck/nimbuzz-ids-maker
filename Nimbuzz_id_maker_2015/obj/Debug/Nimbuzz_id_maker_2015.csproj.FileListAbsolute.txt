@@ -1,0 +1,10 @@
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\bin\Debug\Nimbuzz_id_maker_2015.exe.config
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\bin\Debug\Nimbuzz_id_maker_2015.exe
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\bin\Debug\Nimbuzz_id_maker_2015.pdb
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\bin\Debug\MehdiComponent.dll
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.csprojResolveAssemblyReference.cache
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.Form1.resources
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.Properties.Resources.resources
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.csproj.GenerateResource.Cache
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.exe
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_id_maker_2015\Nimbuzz_id_maker_2015\obj\Debug\Nimbuzz_id_maker_2015.pdb
